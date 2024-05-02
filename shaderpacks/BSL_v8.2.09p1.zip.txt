@@ -1,0 +1,12 @@
+#Thu May 02 18:08:05 CEST 2024
+AO=false
+DYNAMIC_HANDLIGHT=true
+FOG_DENSITY=0.50
+FXAA=false
+LIGHT_SHAFT=false
+SATURATION=0.80
+SHADOW_COLOR=false
+SHADOW_FILTER=false
+VIBRANCE=0.60
+shadowDistance=128.0
+shadowMapResolution=512
